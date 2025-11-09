@@ -1,2 +1,3 @@
 for _ in range(10):
-  print("Hello")
+  print("Hello", end=" ")
+  print("World")
